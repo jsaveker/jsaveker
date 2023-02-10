@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsaveker
-- 👀 I’m interested in IoT Security, HAM Radio, Networking and Coffee
+- 👀 I’m interested in All things Security, HAM Radio, Networking and Coffee
 - 📫 How to reach me... james@saveker.org
 
 <!---
