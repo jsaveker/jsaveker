@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Jim Saveker
 
-🛡️ Senior Director of Threat Detection | Cyber Risk Veteran | Startup Builder  
+🛡️ Security Person @ Perpetual Systems 
 📍 Austin, TX • ☕ Fuelled by coffee & curiosity • 🔭 Exploring the edges of cybersecurity and automation  
 
 ---
