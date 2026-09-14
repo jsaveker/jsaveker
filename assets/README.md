@@ -18,7 +18,8 @@ node scripts/build-art.mjs
 
 - `meshtui.png`: unchanged capture from [MeshTUI](https://github.com/jsaveker/meshtui/blob/65a04e054fae72b818b6c882ac10af8127d4809c/docs/assets/meshtui-dashboard.png). The actual Textual interface uses fictional MeshCore demonstration data.
 - `mathcraft.jpg`: unchanged [Mathcraft welcome capture](https://github.com/jsaveker/Mathcraft/blob/2e3933505af239861a41cc3ee2d317ffdb9c13a6/docs/images/welcome.jpg). Captured from an isolated game demonstration save, with no real child's data.
-- `bitrot.png`: browser capture of the actual [bitrot.sh](https://bitrot.sh) terminal panel on 13 September 2026. Its corruption indicator is a simulation.
+- `bitrot-utility.jpg`: unchanged browser capture of the live [Bitrot file utility](https://bitrot.sh) on 14 September 2026, at revision [`1dffdad`](https://github.com/jsaveker/bitrot/commit/1dffdad14ca7f914170606e06f7197ba19913378), using a 1440 × 1000 viewport. The bundled NASA Earthrise PNG is processed locally at colour-drain level 4; the image comparison and measurements are real. The source capture is [utility-overview.jpg](https://github.com/jsaveker/bitrot/blob/main/docs/images/utility-overview.jpg). No personal files are loaded.
+- `bitrot.png`: retained historical terminal-panel capture from 13 September 2026. It is no longer used in the profile README.
 - `rftui-demo.gif`: eight-second, 24-frame capture of the real RFTUI at revision [`b3c5d1`](https://github.com/jsaveker/rftui/tree/b3c5d11015d978db4f2f0427c7fb2a4863db68b7), using its own deterministic demo generator. It is not a live RF recording. No hardware is opened.
 - `rftui.png`: the first captured RFTUI frame, used when the visitor prefers reduced motion.
 

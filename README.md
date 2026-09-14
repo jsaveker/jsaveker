@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jsaveker/bitrot"><img src="assets/bitrot.png" width="100%" alt="The bitrot.sh interface, with a glitching terminal logo and simulated data corruption readout."></a>
+      <a href="https://github.com/jsaveker/bitrot"><img src="assets/bitrot-utility.jpg" width="100%" alt="Bitrot's actual vintage file utility, with a sample directory, an Earthrise original/result comparison, and locally computed decay measurements."></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jsaveker/Mathcraft"><img src="assets/mathcraft.jpg" width="100%" alt="Mathcraft's actual welcome screen, with a floating meadow island and five maths adventure destinations."></a>
@@ -45,7 +45,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jsaveker/bitrot">bitrot</a></h3>
-      <p>A playful laboratory for simulated data decay.</p>
+      <p>A vintage file utility for local data decay, repeatable recipes, and recovery lessons.</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jsaveker/Mathcraft">Mathcraft</a></h3>
