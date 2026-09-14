@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Jim Saveker / N3SAV — Security. Signals. Systems.</title>
+<desc id="desc">Building tools to understand what's happening. An RF waveform becomes a connected network, linking signals to context and understanding.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".75" fill="#253848"/></pattern>
+  <radialGradient id="aura"><stop stop-color="#183c47" stop-opacity=".95"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="420" rx="14" fill="#0d1117"/>
+<rect width="1280" height="420" rx="14" fill="url(#grid)"/>
+<path d="M42 34h32" stroke="#57dfdf" stroke-width="3"/>
+<path d="M74 34h12" stroke="#ffbc68" stroke-width="3"/>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#a5b5c5" font-size="14" letter-spacing="2">
+  <text x="104" y="40">N3SAV / AUSTIN, TX</text>
+</g>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <text x="42" y="102" fill="#edf4fb" font-size="32" font-weight="600" letter-spacing="-.8">Jim Saveker</text>
+  <text x="39" y="169" fill="#edf4fb" font-size="59" font-weight="700" letter-spacing="-2.5">Security. Signals.</text>
+  <text x="39" y="235" fill="#57dfdf" font-size="59" font-weight="700" letter-spacing="-2.5">Systems.</text>
+  <text x="42" y="284" fill="#a5b5c5" font-size="22">Building tools to understand what’s happening.</text>
+</g>
+<g transform="translate(680,8)">
+    <circle cx="365" cy="175" r="178" fill="url(#aura)"/>
+    <g stroke="#253848" fill="none" stroke-width="1">
+      <circle cx="365" cy="175" r="145"/><circle cx="365" cy="175" r="100"/>
+      <path d="M365 15V338M205 175H545" stroke-dasharray="3 9"/>
+    </g>
+    <path d="M0,178.00 L2,178.51 L4,179.09 L6,179.67 L8,180.21 L10,180.63 L12,180.92 L14,181.04 L16,181.00 L18,180.83 L20,180.56 L22,180.22 L24,179.80 L26,179.28 L28,178.60 L30,177.67 L32,176.42 L34,174.82 L36,172.88 L38,170.72 L40,168.54 L42,166.63 L44,165.30 L46,164.86 L48,165.55 L50,167.46 L52,170.53 L54,174.53 L56,179.09 L58,183.76 L60,188.10 L62,191.76 L64,194.51 L66,196.32 L68,197.29 L70,197.62 L72,197.52 L74,197.14 L76,196.47 L78,195.33 L80,193.41 L82,190.34 L84,185.80 L86,179.66 L88,172.05 L90,163.46 L92,154.63 L94,146.54 L96,140.19 L98,136.44 L100,135.85 L102,138.56 L104,144.28 L106,152.29 L108,161.65 L110,171.32 L112,180.37 L114,188.14 L116,194.31 L118,198.89 L120,202.17 L122,204.54 L124,206.36 L126,207.83 L128,208.91 L130,209.32 L132,208.64 L134,206.43 L136,202.34 L138,196.32 L140,188.60 L142,179.77 L144,170.62 L146,162.09 L148,155.06 L150,150.19 L152,147.84 L154,148.01 L156,150.38 L158,154.37 L160,159.30 L162,164.48 L164,169.39 L166,173.65 L168,177.15 L170,179.91 L172,182.09 L174,183.90 L176,185.47 L178,186.89 L180,188.12 L182,189.04 L184,189.50 L186,189.38 L188,188.57 L190,187.10 L219,178 L245,146 L275,146" fill="none" stroke="#57dfdf" stroke-width="2.6"/>
+    <path d="M275,146L356,83" stroke="#355565" stroke-width="1.5"/><path d="M275,146L440,142" stroke="#355565" stroke-width="1.5"/><path d="M275,146L361,219" stroke="#355565" stroke-width="1.5"/><path d="M356,83L440,142" stroke="#355565" stroke-width="1.5"/><path d="M356,83L470,55" stroke="#355565" stroke-width="1.5"/><path d="M440,142L361,219" stroke="#355565" stroke-width="1.5"/><path d="M440,142L495,244" stroke="#355565" stroke-width="1.5"/><path d="M440,142L470,55" stroke="#355565" stroke-width="1.5"/><path d="M440,142L530,140" stroke="#355565" stroke-width="1.5"/><path d="M361,219L495,244" stroke="#355565" stroke-width="1.5"/><path d="M361,219L264,264" stroke="#355565" stroke-width="1.5"/><path d="M361,219L390,310" stroke="#355565" stroke-width="1.5"/><path d="M495,244L530,140" stroke="#355565" stroke-width="1.5"/><path d="M495,244L390,310" stroke="#355565" stroke-width="1.5"/><path d="M470,55L530,140" stroke="#355565" stroke-width="1.5"/><path d="M264,264L390,310" stroke="#355565" stroke-width="1.5"/><path d="M264,264L187,229" stroke="#355565" stroke-width="1.5"/><path d="M187,229L275,146" stroke="#355565" stroke-width="1.5"/>
+    <path d="M190 178L219 178L245 146L275 146L356 83L440 142L495 244" fill="none" stroke="#57dfdf" stroke-width="2.5"/>
+    <path d="M275 146L361 219L390 310" fill="none" stroke="#ffbc68" stroke-width="2"/>
+    <circle cx="275" cy="146" r="11" fill="#0d1117" fill-opacity="1" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="275" cy="146" r="3.5" fill="#57dfdf"/><circle cx="356" cy="83" r="11" fill="#0d1117" fill-opacity="1" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="356" cy="83" r="3.5" fill="#57dfdf"/><circle cx="440" cy="142" r="17" fill="#57dfdf" fill-opacity=".12" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="440" cy="142" r="5" fill="#57dfdf"/><circle cx="361" cy="219" r="11" fill="#0d1117" fill-opacity="1" stroke="#ffbc68" stroke-opacity=".4"/><circle cx="361" cy="219" r="3.5" fill="#ffbc68"/><circle cx="495" cy="244" r="11" fill="#0d1117" fill-opacity="1" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="495" cy="244" r="3.5" fill="#57dfdf"/><circle cx="470" cy="55" r="11" fill="#0d1117" fill-opacity="1" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="470" cy="55" r="3.5" fill="#57dfdf"/><circle cx="530" cy="140" r="11" fill="#0d1117" fill-opacity="1" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="530" cy="140" r="3.5" fill="#57dfdf"/><circle cx="264" cy="264" r="11" fill="#0d1117" fill-opacity="1" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="264" cy="264" r="3.5" fill="#57dfdf"/><circle cx="390" cy="310" r="11" fill="#0d1117" fill-opacity="1" stroke="#ffbc68" stroke-opacity=".4"/><circle cx="390" cy="310" r="3.5" fill="#ffbc68"/><circle cx="187" cy="229" r="11" fill="#0d1117" fill-opacity="1" stroke="#57dfdf" stroke-opacity=".4"/><circle cx="187" cy="229" r="3.5" fill="#57dfdf"/>
+    <g fill="#a5b5c5" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.2">
+      <text x="22" y="234">SIGNAL</text><text x="375" y="39">CONTEXT</text><text x="407" y="335">UNDERSTANDING</text>
+    </g>
+    <g stroke="#ffbc68" stroke-width="1.5"><path d="M188 52h14m-7-7v14M528 300h14m-7-7v14"/></g>
+  </g>
+<path d="M42 368H1238" stroke="#253848"/>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing="1.2" fill="#a5b5c5">
+  <text x="42" y="395">SECURITY ENGINEERING</text>
+  <circle cx="295" cy="390" r="2" fill="#ffbc68"/>
+  <text x="315" y="395">RADIO</text>
+  <circle cx="392" cy="390" r="2" fill="#ffbc68"/>
+  <text x="412" y="395">OPEN SOURCE</text>
+  <text x="1238" y="395" text-anchor="end">FAMOUS AMONGST DOZENS.</text>
+</g>
+</svg>
