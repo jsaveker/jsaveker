@@ -73,6 +73,19 @@ ${network(c,mobile)}
 </g>
 </svg>\n`;
     writeFileSync(`${out}signal-station-${theme}${mobile?'-mobile':''}.svg`,svg);
+    if (mobile && theme === 'light') {
+      // GitHub rewrites colour-scheme <source> queries and drops extra width
+      // conditions. Keep the mobile <source> width-only and inherit the host
+      // page's colour scheme inside the SVG instead.
+      let adaptive = svg;
+      for (const [name, value] of Object.entries(c)) {
+        adaptive = adaptive.replaceAll(value, `var(--${name})`);
+      }
+      const vars = palette => Object.entries(palette).map(([name,value])=>`--${name}:${value}`).join(';');
+      const style = `<style>:root{${vars(themes.light)}}@media(prefers-color-scheme:dark){:root{${vars(themes.dark)}}}</style>`;
+      adaptive = adaptive.replace('<defs>', `${style}\n<defs>`);
+      writeFileSync(`${out}signal-station-mobile.svg`, adaptive);
+    }
   }
 }
-console.log('Built four theme-aware signal station banners.');
+console.log('Built desktop theme variants and an adaptive mobile banner.');

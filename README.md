@@ -1,6 +1,5 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/signal-station-dark-mobile.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/signal-station-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/signal-station-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/signal-station-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/signal-station-light.svg">
   <img src="assets/signal-station-dark.svg" width="100%" alt="Jim Saveker / N3SAV — Security. Signals. Systems. Building tools to understand what's happening.">
